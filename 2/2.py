@@ -17,7 +17,6 @@ for x in input:
     elif command == "down": 
         aim += value
 
-
 print(posX)
 print(posY)
 print(posX*posY)
